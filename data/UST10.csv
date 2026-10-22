@@ -1,6 +1,4 @@
 date,value,source
-2021-10-20,1.65,fred:DGS10
-2021-10-21,1.68,fred:DGS10
 2021-10-22,1.66,fred:DGS10
 2021-10-25,1.64,fred:DGS10
 2021-10-26,1.63,fred:DGS10
@@ -1247,3 +1245,5 @@ date,value,source
 2026-10-15,5.1,fred:DGS10
 2026-10-16,5.09,fred:DGS10
 2026-10-19,5.15,fred:DGS10
+2026-10-20,5.12,fred:DGS10
+2026-10-21,5.13,fred:DGS10
