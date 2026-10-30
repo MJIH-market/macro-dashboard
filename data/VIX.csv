@@ -1,5 +1,4 @@
 date,value,source
-2021-10-29,16.26,fred:VIXCLS
 2021-11-01,16.41,fred:VIXCLS
 2021-11-02,16.03,fred:VIXCLS
 2021-11-03,15.1,fred:VIXCLS
@@ -1285,3 +1284,4 @@ date,value,source
 2026-10-23,19.45,fred:VIXCLS
 2026-10-26,18.39,fred:VIXCLS
 2026-10-27,17.52,fred:VIXCLS
+2026-10-28,16.91,fred:VIXCLS
