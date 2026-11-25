@@ -1,5 +1,4 @@
 date,value,source
-2021-11-24,0.64,fred:DGS2
 2021-11-26,0.5,fred:DGS2
 2021-11-29,0.51,fred:DGS2
 2021-11-30,0.52,fred:DGS2
@@ -1246,3 +1245,4 @@ date,value,source
 2026-11-18,4.8,fred:DGS2
 2026-11-19,4.76,fred:DGS2
 2026-11-20,4.63,fred:DGS2
+2026-11-23,4.63,fred:DGS2
